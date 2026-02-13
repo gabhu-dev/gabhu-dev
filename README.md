@@ -6,7 +6,9 @@
 <h1 align="center">Hi, I'm Gabhu dev <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 <h3 font-size="20" align="center">A Frontend and Biomedical Student.</h3>
-
+<p align="center">
+  <a href="https://gabhu-dev-portfolio.vercel.app/" target="_blank">Check out my portfolio 🔍</a>
+</p>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
