@@ -118,6 +118,47 @@
 
 ----
 
+<h3 align="center">🎓 University Projects</h3>
+
+<div align="center" style="margin-top:10px">
+  <p>
+    Academic projects developed during my Biomedical Engineering degree,
+    focused on digital signal processing, medical instrumentation,
+    and applied biomedical technologies.
+  </p>
+
+  <a href="https://github.com/gabhu-dev/pdi-projects" target="_blank">
+    🖼️ Digital Image Processing Projects
+  </a>
+  <br><br>
+
+  <a href="https://github.com/gabhu-dev/sensor-color" target="_blank">
+    🎨 Color Sensor System
+  </a>
+  <br><br>
+
+  <a href="https://github.com/gabhu-dev/sensor-ecg" target="_blank">
+    ❤️ ECG Sensor Project
+  </a>
+</div>
+
+<br>
+
+<h3 align="center">📚 Extracurricular Courses</h3>
+
+<div align="center" style="margin-top:10px">
+  <p>
+    Complementary courses and certifications that strengthen my technical
+    and analytical skills in engineering, programming, and applied technologies.
+  </p>
+
+  <a href="https://github.com/gabhu-dev/curso-coursera" target="_blank">
+    🎓 Coursera Python Course Projects
+  </a>
+</div>
+
+---
+
 <h3 align="center">Connect with me</h3>
 
 <div style="margin-top:10px" align="center">
@@ -133,3 +174,5 @@
     </a>
   </div>
 </div>
+
+---
