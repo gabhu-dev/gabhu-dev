@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-🌱 I’m currently learning <strong>Data Science</strong> 
+🌱 I’m currently learning <strong>Artificial intelligence</strong> 
 <br> 👯 I’m looking to work on <strong>Python proyects</strong>
 <br>💬 Ask me about <strong>CSS and Anatomy 😆</strong><br>⚡ Fun fact <strong>Coding is a passion and not profession</strong>.
 </p>
