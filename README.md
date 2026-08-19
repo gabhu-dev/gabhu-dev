@@ -55,6 +55,10 @@
     <img src="https://img.shields.io/badge/vue-25A162.svg?style=for-the-badge&logo=vue&logoColor=white"
       alt="25A162"/>
   </a>
+        <a href="https://es.react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/react-087EA4.svg?style=for-the-badge&logo=react&logoColor=white"
+      alt="25A162"/>
+  </a>
   <a href="https://tailwind.io/" target="_blank">
     <img src="https://img.shields.io/badge/tailwind-00D1B2.svg?style=for-the-badge&logo=tailwind&logoColor=white"
       alt="tailwind"/>
